@@ -1,0 +1,23 @@
+/*
+    almoxarifado
+    ---------------------------
+
+    Jason Project File
+
+    This file defines the initial state of the MAS
+
+    Jason 2.5.1
+    Junho 14, 2021 - 15:20:06
+*/
+
+MAS almoxarifado {
+
+    infrastructure: Centralised
+
+    environment: Ambiente
+
+    agents: 
+        agente1;
+		agente2;
+
+}

@@ -1,0 +1,23 @@
+/*
+    quarto
+    ---------------------------
+
+    Jason Project File
+
+    This file defines the initial state of the MAS
+
+    Jason 2.5.1
+    Junho 13, 2021 - 18:30:23
+*/
+
+MAS quarto {
+
+    infrastructure: Centralised
+	
+	environment: Ambiente
+	
+	executionControl: jason.control.ExecutionControl
+
+    agents: porteiro; claustrofobico; paranoico;
+
+}
